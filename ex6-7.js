@@ -1,5 +1,5 @@
-var who66 = 'world';
-function sayhello66() {
+var who66 = 'world';'レイ';'シンジ';'アスカ';
+function sayhello67() {
 alert('Hello, ' + who66 + '!');
 }
 function someone(x) {
