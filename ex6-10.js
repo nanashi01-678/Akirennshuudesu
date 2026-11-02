@@ -1,4 +1,4 @@
 function gazo610()
-{document.getElementById('who610').innerHTML=
+{ document.getElementById('who610').innerHTML=
 '<img src="./image/mizu.png" alt="液体">’
 ;}
