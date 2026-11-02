@@ -1,4 +1,4 @@
 function gazo610()
-{ document.getElementById('who610').innerHTML=
-'<img src="./image/mizu.png" alt="液体">’
+{document.getElementById('who610').innerHTML=
+'<img src="./image/mizu.png" alt="液体">'
 ;}
