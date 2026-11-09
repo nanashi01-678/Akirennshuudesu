@@ -3,3 +3,7 @@ function gazo612()
 '<img src="./image/mizu.png" alt="液体">'
 ;}
 
+function imgchange1() {
+document.getElementById('logo').src =
+"./image/ice.png";
+
