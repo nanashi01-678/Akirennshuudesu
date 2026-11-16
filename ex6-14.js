@@ -5,6 +5,6 @@ function gazo614()
 
 function imgchange3() 
 {document.getElementById('who614').innerHTML=
-'<img src="./image/1000016685.jng" alt="変更された顔" class="imagechange22">'
+'<img src="./image/1000016885.jng" alt="変更された顔" class="imagechange22">'
 ;}
 
