@@ -1,9 +1,9 @@
-function gazo612()
-{document.getElementById('who612').innerHTML=
+function gazo613()
+{document.getElementById('who613').innerHTML=
 '<img src="./image/mizu.png" alt="液体">'
 ;}
 
-function imgchange1() 
-{document.getElementById('who612').innerHTML=
+function imgchange2() 
+{document.getElementById('who613').innerHTML=
 '<img src="./image/ice.png" alt="固体">'
 ;}
