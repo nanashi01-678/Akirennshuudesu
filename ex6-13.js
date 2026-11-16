@@ -5,5 +5,5 @@ function gazo613()
 
 function imgchange2() 
 {document.getElementById('who613').innerHTML=
-'<img src="./image/loogo.png" alt="城西ロゴ">'
+'<img src="./image/loogo.png" alt="城西ロゴ" class="imagechange">'
 ;}
